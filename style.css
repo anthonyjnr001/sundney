@@ -238,7 +238,7 @@ padding-left: 19px;
 .orange img{
    padding: 0;
 height: 300px;
-width: 675px;  
+max-width: 675px;  
 }
 .text-wd{
   position:absolute;
